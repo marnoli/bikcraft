@@ -70,6 +70,7 @@
 .bicicletas-conteudo img {
     width: 24px;
     margin-right: 8px;
+    height: auto;
 }
 
 @media (max-width: 800px) {
